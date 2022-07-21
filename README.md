@@ -3,4 +3,4 @@ Neste repositório está o código relativo à Unidade Curricular de Arquitetura
 
 | Diretório | Descrição |
 | :-------- | :------------------------------------------------------------------------------|
-| Pŕaticas  | Resoluções dos exercícios das aulas pr |
+| Prticas  | Resoluções dos exercícios das aulas pr |
