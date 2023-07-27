@@ -1,6 +1,6 @@
-# Arquitetura de Computadores (CC2002)
-Neste repositório está o código relativo à Unidade Curricular de Arquitetura de Computadores do Ano Letivo 2021/2022 - DCC/FCUP.
+# Computer Architecture (CC2002)
+This repository contains the code for Computer Architecture Course Unit of 2021/2022 Academic Year - DCC/FCUP.
 
-| Diretório | Descrição |
+| Folder | Description |
 | :-------- | :------------------------------------------------ |
-| Práticas  | Resoluções dos exercícios das aulas práticas |
+| Lab Classes  | Resolutions of the lab classes exercises |
